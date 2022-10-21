@@ -5,13 +5,13 @@
 
 - isWin() 判定条件的更改
 
-  <img src=".\readme.assets\image-20220604133137291.png" alt="image-20220604133137291" style="zoom:50%;" />
+  <img src="https://github.com/Poivre-hxx/Tetris/blob/main/readme.assets/image-20220604133137291.png" alt="image-20220604133137291" style="zoom:50%;" />
 
 - 新的方块儿生成位置的更改
 
   自顶向下
 
-  <img src=".\readme.assets\image-20220604133224081.png" alt="image-20220604133224081" style="zoom:33%;" />
+  <img src="https://github.com/Poivre-hxx/Tetris/blob/main/readme.assets/image-20220604133224081.png" alt="image-20220604133224081" style="zoom:33%;" />
 
 
 
